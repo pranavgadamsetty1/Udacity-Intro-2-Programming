@@ -1,0 +1,22 @@
+#head_properties{padding: 0px;}
+
+#card_properties{width: 600px; padding: 0px 10px; border:2px solid gray;box-shadow: 10px 10px 6px gray; border-radius: 10px;}
+
+#animal_name{font-weight:bold; font-size:36pt;}
+
+#image_dimensions{width:600px;height:400px;}
+
+#description_box_style{border: 2px solid gray; padding-left:10px;
+width:576px; padding-right:10px; margin-bottom: 20px;}
+
+#interesting_fact{font-style:italic;font-size:12pt}
+
+.justification{text-align:justify;}
+
+#characteristic_list_properties{list-style:none;padding-left:0px;}
+
+.characteristic_label{font-family:'Times New Roman', Times, serif;font-weight:bold;font-size:14pt;}
+
+.characteristic_description{font-family:'Times New Roman', Times, serif;font-weight:normal;font-size:12pt;}
+
+#brief_description{font-family:'Times New Roman', Times, serif;font-weight:normal;font-size:12pt;}
